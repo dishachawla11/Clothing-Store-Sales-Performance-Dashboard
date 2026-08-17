@@ -1,11 +1,10 @@
-# Clothing-Store-Sales-Performance-Dashboard
+# Clothing Store Sales Performance Dashboard
 Excel Dashboard Analyzing Clothing Store Sales Performance.
 
 ## Project Overview
 An interactive **Excel dashboard** created to analyze clothing store sales performance and identify key sales trends and customer patterns.
 The dashboard provides insights into **monthly sales, order trends, gender-wise sales, sales channels, order status, state-wise performance, and age-group analysis**.
 
----
 ## Objective
 To transform raw sales data into an interactive dashboard that helps understand:
 * Sales and order trends over time
@@ -15,7 +14,6 @@ To transform raw sales data into an interactive dashboard that helps understand:
 * Order status distribution
 * Sales across different age groups and genders
 
----
 ## Tech Stack
 * Microsoft Excel
 * Pivot Tables
@@ -24,9 +22,7 @@ To transform raw sales data into an interactive dashboard that helps understand:
 * Data Cleaning
 * Data Visualization
 
----
 ## Features & Highlights
-
 * **Monthly Sales & Order Trend** — Tracks sales and order volume across months.
 * **Gender-wise Sales** — Compares sales contribution between men and women.
 * **Channel-wise Performance** — Compares sales across Ajio, Amazon, Flipkart, Meesho, Myntra, Nalli, and other channels.
@@ -34,8 +30,7 @@ To transform raw sales data into an interactive dashboard that helps understand:
 * **Top 10 States by Sales** — Identifies the highest-performing states.
 * **Age Group & Gender Analysis** — Compares sales across different age groups and genders.
 * **Interactive Filters** — Allows filtering by gender, month, and channel.
-* 
----
+   
 ## Business Insights & Impact
 * Women contributed a larger share of overall sales, indicating a stronger sales contribution from the women's segment.
 * Amazon recorded the highest sales among the available channels, highlighting its importance as a key sales platform.
@@ -44,15 +39,12 @@ To transform raw sales data into an interactive dashboard that helps understand:
 * Sales varied across age groups and genders, providing useful information for customer segmentation and targeted marketing.
 * Monthly sales and order trends showed changes throughout the year, which can help businesses identify stronger and weaker sales periods.
 
----
 ## Dashboard Preview
+https://github.com/dishachawla11/Clothing-Store-Sales-Performance-Dashboard/blob/main/Dashboard.png
 
-
----
 ## Skills Demonstrated
 **Excel | Data Cleaning | Data Analysis | PivotTables | Pivot Charts | Slicers | Data Visualization | Dashboard Development**
 
----
 ### Project Type
 **Data Analytics / Excel Dashboard Project**
 
