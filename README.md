@@ -31,7 +31,7 @@ To transform raw sales data into an interactive dashboard that helps understand:
 * **Age Group & Gender Analysis** — Compares sales across different age groups and genders.
 * **Interactive Filters** — Allows filtering by gender, month, and channel.
    
-## Business Insights & Impact 
+## Business Insights & Impacts
 * Women contributed a larger share of overall sales, indicating a stronger sales contribution from the women's segment.
 * Amazon recorded the highest sales among the available channels, highlighting its importance as a key sales platform.
 * Maharashtra and Karnataka were among the strongest-performing states, indicating opportunities to focus marketing and expansion efforts in high-performing regions.
